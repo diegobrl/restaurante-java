@@ -4,7 +4,7 @@
 
 ## 📌 Sobre o Projeto
 
-Este é um projeto técnico desenvolvido durante minha formação em Desenvolvimento de Sistemas. Ele implementa um sistema de autoatendimento em **Java**, com interfaces, classes abstratas e uma arquitetura orientada a objetos.
+Este é um projeto técnico desenvolvido durante minha formação em Desenvolvimento de Sistemas. Ele implementa um sistema de autoatendimento em Java, com interfaces, classes abstratas e uma arquitetura orientada a objetos.
 
 O objetivo foi consolidar conhecimentos em:
 - Programação Orientada a Objetos (POO)
