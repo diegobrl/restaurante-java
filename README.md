@@ -14,7 +14,7 @@ O objetivo foi consolidar conhecimentos em:
 
 ---
 
-## 🛠Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - **Java 8+** – Linguagem principal
 - **POO** – Uso de classes, interfaces e herança
