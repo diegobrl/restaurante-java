@@ -2,7 +2,7 @@
 
 > Aplicação Java terminal para simular um totem de autoatendimento em restaurantes, permitindo ao cliente realizar pedidos, visualizar o cardápio, finalizar com pagamento e gerar relatórios internos.
 
-## 📌 Sobre o Projeto
+## Sobre o Projeto
 
 Este é um projeto técnico desenvolvido durante minha formação em Desenvolvimento de Sistemas. Ele implementa um sistema de autoatendimento em Java, com interfaces, classes abstratas e uma arquitetura orientada a objetos.
 
@@ -14,7 +14,7 @@ O objetivo foi consolidar conhecimentos em:
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## 🛠Tecnologias Utilizadas
 
 - **Java 8+** – Linguagem principal
 - **POO** – Uso de classes, interfaces e herança
@@ -23,7 +23,7 @@ O objetivo foi consolidar conhecimentos em:
 
 ---
 
-## 🧩 Funcionalidades Implementadas
+##  Funcionalidades Implementadas
 
 - **Cardápio dinâmico**: listagem de pratos e bebidas com nome, descrição e preço
 - **Pedido personalizado**: adicionar/remover itens e calcular total automaticamente
